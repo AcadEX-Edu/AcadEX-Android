@@ -1,6 +1,6 @@
 # AcadEX - College Management System
 
-<img align="center" width="100" height="100" src="https://github.com/AcadEX-Edu/AcadEX-Android/blob/main/images/logo_green_640x640(w_cation).jpg">
+<img width="500" height="500" src="https://github.com/AcadEX-Edu/AcadEX-Android/blob/main/images/logo_green_640x640(w_cation).jpg">
 
 AcadEX is developed to manage and monitor students of an institution in a simplified but robust manner. AcadEX is primarly being developed as part of our final Year project work but hosts the potential to be deployed in a real life situation to provide Teachers and Students with a platform to manage study materials, generate reports and communicate events. AcadEX is heavily influenced by **SBTE Kerala**, **SITTTR**, **PCAMSYS**, **Sampoorna(Fedena)**, **TEAMS**.etc
 
@@ -11,7 +11,7 @@ AcadEX is developed to manage and monitor students of an institution in a simpli
 - PDFs/PPTs are Downloadable, updated in realtime from SITTTTR.
 - Students , Tutors and Administrators has diverse set of functionalities.
 ## Overview
-<img align="center" width="100" height="100" src="https://github.com/AcadEX-Edu/AcadEX-Android/blob/main/flowcharts/v1/Flowchart-v1.01(transparent-bg).png">
+<img align="center" width="1162" height="784" src="https://github.com/AcadEX-Edu/AcadEX-Android/blob/main/flowcharts/v1/Flowchart-v1.01(transparent-bg).png">
 
 ### - Students can -> 
 - View Student Profile.
