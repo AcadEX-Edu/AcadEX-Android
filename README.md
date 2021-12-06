@@ -3,7 +3,8 @@
 <p align="center">
 <img width="200" height="200" src="https://github.com/AcadEX-Edu/AcadEX-Android/blob/main/images/logo_green_640x640(w_cation).jpg">
 </p>
-AcadEX is developed to manage and monitor students of an institution in a simplified but robust manner. AcadEX is primarly being developed as part of our final Year project work but hosts the potential to be deployed in a real life situation to provide Teachers and Students with a platform to manage study materials, generate reports and communicate events. AcadEX is heavily influenced by **SBTE Kerala**, **SITTTR**, **PCAMSYS**, **Sampoorna(Fedena)**, **TEAMS**.etc
+
+AcadEX is developed to manage and monitor students of an institution in a simplified but robust manner. AcadEX is primarly being developed as part of our final Year project work but hosts the potential to be deployed in a real life situation to provide Teachers and Students with a platform to manage study materials, generate reports and communicate events. AcadEX is heavily influenced by **SBTE Kerala** , **SITTTR** , **PCAMSYS** , **Sampoorna(Fedena)** , **TEAMS**.etc
 
 # Features
 - Firebase Integration and Secure Google Authentication. :iphone:
